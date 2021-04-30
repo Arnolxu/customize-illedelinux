@@ -1,2 +1,2 @@
 # customize-illedelinux
-illedeLinux özelleştirmelerim.
+illedeLinux Openbox özelleştirmelerim.
