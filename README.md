@@ -1,0 +1,2 @@
+# customize-illedelinux
+illedeLinux özelleştirmelerim.
