@@ -1,5 +1,6 @@
 # customize-illedelinux
 illedeLinux Openbox özelleştirmelerim.
+![Sonuç](./desktop.png)
 ## Adımlar
 1. neofetch.txt dosyasını bir dizine koyun ve .bashrc dosyasına şu satırı ekleyin:
 ```bash
